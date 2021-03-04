@@ -1,0 +1,63 @@
+I"+<p>We are a dynamic research group at the <a href="https://new.tamuc.edu/">Texas A&amp;M Commerce at Rellis</a>. Our aim is to explore and understand solutions for decentralized identity.  Approaches currently being explored are OAuth 2.0 implementation, IndieAuth, BlockChain and</p>
+
+<!-- 
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    //<!-- Menu -->
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;ol class="carousel-indicators"&gt;
+    &lt;li data-target="#carousel" data-slide-to="0" class="active"&gt;&lt;/li&gt;
+    &lt;li data-target="#carousel" data-slide-to="1"&gt;&lt;/li&gt;
+    &lt;li data-target="#carousel" data-slide-to="2"&gt;&lt;/li&gt;
+    &lt;li data-target="#carousel" data-slide-to="3"&gt;&lt;/li&gt;
+    &lt;li data-target="#carousel" data-slide-to="4"&gt;&lt;/li&gt;
+    &lt;li data-target="#carousel" data-slide-to="5"&gt;&lt;/li&gt;
+    &lt;li data-target="#carousel" data-slide-to="6"&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- Items --&gt;
+&lt;div class="carousel-inner" markdown="0"&gt;
+
+    &lt;div class="item active"&gt;
+        &lt;img src="/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 1" /&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+        &lt;img src="/images/slider7001400/QPI_Rh.jpg" alt="Slide 2" /&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+        &lt;img src="/images/slider7001400/NoiseCover2.jpg" alt="Slide 3" /&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+        &lt;img src="/images/slider7001400/SaphireSTM2.jpg" alt="Slide 4" /&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+        &lt;img src="/images/slider7001400/lab.jpg" alt="Slide 5" /&gt;
+    &lt;/div&gt;
+    &lt;div class="item"&gt;
+        &lt;img src="/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" /&gt;
+    &lt;/div&gt;       
+     &lt;div class="item"&gt;
+        &lt;img src="/images/slider7001400/cake_web.jpg" alt="Slide 7" /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;   &lt;a class="left carousel-control" href="#carousel" role="button" data-slide="prev"&gt;
+&lt;span class="glyphicon glyphicon-chevron-left" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;span class="sr-only"&gt;Previous&lt;/span&gt;   &lt;/a&gt;   &lt;a class="right carousel-control" href="#carousel" role="button" data-slide="next"&gt;
+&lt;span class="glyphicon glyphicon-chevron-right" aria-hidden="true"&gt;&lt;/span&gt;
+&lt;span class="sr-only"&gt;Next&lt;/span&gt;   &lt;/a&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;</p>
+
+<p>To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see <a href="research">Research</a>).</p>
+
+<p>We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. <a href="https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html">the wall of signatures from Ehrenfest lecturers</a>). We exchange ideas and work with our neighbors from <a href="http://www.physics.leidenuniv.nl/qo-home">Quantum Matter &amp; Optics</a>, as well as with the colleagues from our <a href="https://www.lorentz.leidenuniv.nl">world-class theory section</a>.</p>
+
+<p><strong>We are  looking for passionate new PhD students, Postdocs, and Master students to join the team</strong> <a href="/vacancies">(more info)</a> <strong>!</strong></p>
+
+<p>We are grateful for funding from Leiden University, <a href="www.nwo.nl">NWO</a> (<a href="http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme">Vidi talent scheme</a> and the <a href="https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront">Frontiers in Nanoscience program</a>), and from an <a href="https://erc.europa.eu/funding/starting-grants">ERC starting grant</a>.</p>
+
+<figure class="fourth">
+  <p><img src="/images/logopic/Logo_Leiden.jpg" style="width: 210px" />
+  <img src="/images/logopic/Logo_Nanofront.jpg" style="width: 110px" />
+  <img src="/images/logopic/Logo_NWO.jpg" style="width: 120px" />
+  <img src="/images/logopic/Logo_ERC.jpg" style="width: 110px" /></p>
+</figure>
+<p>–&gt;</p>
+:ET
